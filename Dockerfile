@@ -7,7 +7,7 @@
 # docker run -d -p 8080:8080 --name WebmainApplication springboot-two-java21
 #
 # Verificar que funciona
-# curl http://localhost:8080/two
+# curl http://localhost:8080/bye
 #
 # push to docker
 # docker tag springboot-two-java21 luissanzaguilar/springboot-two-java21:1.0
